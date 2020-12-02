@@ -89,34 +89,18 @@ Clique **[aqui](http://emag.governoeletronico.gov.br/)** para ver as recomendaç
 
 <br>[⬆ Voltar ao topo](#-seções)<br>
 
-## 🌈 Contribuidores<br>
+## :hammer: Contribuidores<br>
 <table>
   <tr>
     <td align="center">
       <a href="https://github.com/brwndon">
-        <img src="https://avatars3.githubusercontent.com/u/31936044" width="100px;" alt=""/><br>
+        <img src="https://avatars2.githubusercontent.com/u/47898677?s=460&u=6a4971f0802012228d72f12671baa46155e53885&v=4" width="100px;" alt=""/><br>
         <sub>
-          <b>Iuri Silva</b>
+          <b>Brendon Lima</b>
         </sub>
       </a>
     </td>
-    <td align="center">
-      <a href="https://github.com/BrianIto">
-        <img src="https://avatars3.githubusercontent.com/u/6891093" width="100px;" alt="Foto do Brian Ito no GitHub"/><br>
-        <sub>
-          <b>Brian Ito</b>
-        </sub>
-      </a><br>
-    </td>
-    <td align="center">
-      <a href="https://github.com/afaferz">
-        <img src="https://avatars3.githubusercontent.com/u/66867161" width="100px;" alt="Foto do afaferz Ito no GitHub"/><br>
-        <sub>
-          <b>Afaferz</b>
-        </sub>
-      </a><br>
-    </td>
-  </tr>
+  </tr> 
 </table>
 
 ## ⛩ Seja um dos contribuidores<br>
@@ -124,5 +108,5 @@ Quer fazer parte desse projeto? É simples!<br>
 Faça um fork dele e coloque as suas modificações, depois mande um pull request.<br>
 
 <h3 align="center">
-🏰<br>Orgulhosamente feito por <strong>Iuri Silva</strong>
+🏰<br>Orgulhosamente feito por <strong>Brendon Lima</strong>
 </h3>
