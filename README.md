@@ -89,14 +89,14 @@ Clique **[aqui](http://emag.governoeletronico.gov.br/)** para ver as recomendaç
 
 <br>[⬆ Voltar ao topo](#-seções)<br>
 
-## 🌈 Contribuidores<br>
+## :hammer: Contribuidores<br>
 <table>
   <tr>
     <td align="center">
       <a href="https://github.com/brwndon">
-        <img src="https://avatars3.githubusercontent.com/u/31936044" width="100px;" alt=""/><br>
+        <img src="https://avatars2.githubusercontent.com/u/47898677?s=460&u=6a4971f0802012228d72f12671baa46155e53885&v=4" width="100px;" alt=""/><br>
         <sub>
-          <b>Iuri Silva</b>
+          <b>Brendon Lima</b>
         </sub>
       </a>
     </td>
