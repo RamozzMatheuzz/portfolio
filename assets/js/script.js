@@ -69,7 +69,7 @@ $(document).ready(function () {
         url: 'https://br.wordpress.com/',
     }, {
         name: 'uieux',
-        url: 'https://designculture.com.br/o-que-e-ui-design-e-ux-design'
+        url: 'https://www.chiefofdesign.com.br/design-grafico/'
     }]
 
     techs.forEach(tech => {
