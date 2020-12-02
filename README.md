@@ -116,7 +116,7 @@ Clique **[aqui](http://emag.governoeletronico.gov.br/)** para ver as recomendaç
         </sub>
       </a><br>
     </td>
-  </tr>
+  </tr> 
 </table>
 
 ## ⛩ Seja um dos contribuidores<br>
