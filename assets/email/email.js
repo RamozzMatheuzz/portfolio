@@ -50,7 +50,7 @@ jQuery(document).ready(function(){          //Inicia a leitura do DOM
             error: function()
             {
                 //Exibir no alert a resposta da requisição
-                alert('Erro ao enviar requisição');
+                alert('Opa, deu algum erro. Tente enviar mensagem para o Whatsapp!');
             }
         });
         //Reinicia a requisição
